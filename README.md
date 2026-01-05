@@ -9,3 +9,4 @@ The lab simulates a real-world internal network with controlled access, hardened
 ---
 
 ## Architecture
+<img width="1536" height="1024" alt="Network Design" src="https://github.com/user-attachments/assets/85eac7a6-1c30-4b69-adc0-010c238cd7f6" />
